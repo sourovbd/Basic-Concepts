@@ -1,4 +1,4 @@
-package main.java.object.oriented.encapsulation;
+package object.oriented.encapsulation;
 
 public class Account {
     private double balance = 0;

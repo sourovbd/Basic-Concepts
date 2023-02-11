@@ -1,4 +1,4 @@
-package main.java.design.principal.ocp;
+package design.principal.ocp;
 
 public class Subtraction implements CalculatorOperation{
     private double left;

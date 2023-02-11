@@ -1,4 +1,4 @@
-package main.java.com.example.field.injection;
+package com.example.field.injection;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**

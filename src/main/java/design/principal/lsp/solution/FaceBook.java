@@ -1,4 +1,4 @@
-package main.java.design.principal.lsp.solution;
+package design.principal.lsp.solution;
 
 public class FaceBook implements SocialMedia, SocialVideoCallManager, PostMediaManager {
     @Override

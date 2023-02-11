@@ -1,4 +1,4 @@
-package main.java.com.example.constructor.injection;
+package com.example.constructor.injection;
 
 import com.example.ClassB;
 import org.springframework.beans.factory.annotation.Autowired;

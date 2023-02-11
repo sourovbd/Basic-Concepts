@@ -1,4 +1,4 @@
-package main.java.object.oriented.polymorphism.runtime;
+package object.oriented.polymorphism.runtime;
 
 public class Triangle implements Shape {
     @Override

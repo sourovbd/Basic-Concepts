@@ -1,4 +1,4 @@
-package main.java.object.oriented.encapsulation;
+package object.oriented.encapsulation;
 
 public class Main {
     public static void main(String[] args) {

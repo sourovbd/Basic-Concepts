@@ -1,4 +1,4 @@
-package main.java.design.principal.srp;
+package design.principal.srp;
 
 public class BankService {
 

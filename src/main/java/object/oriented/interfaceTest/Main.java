@@ -1,4 +1,4 @@
-package main.java.object.oriented.interfaceTest;
+package object.oriented.interfaceTest;
 
 public class Main {
     public static void main(String[] args) {

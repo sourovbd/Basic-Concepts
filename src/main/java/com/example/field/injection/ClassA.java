@@ -1,4 +1,4 @@
-package main.java.com.example.field.injection;
+package com.example.field.injection;
 
 import com.example.ClassB;
 import org.springframework.beans.factory.annotation.Autowired;

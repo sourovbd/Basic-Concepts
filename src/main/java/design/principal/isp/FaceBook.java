@@ -1,4 +1,4 @@
-package main.java.design.principal.isp;
+package design.principal.isp;
 
 public class FaceBook implements SocialMedia, SocialVideoCallManager, PostMediaManager{
     @Override

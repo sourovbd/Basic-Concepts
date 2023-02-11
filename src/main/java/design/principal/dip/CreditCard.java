@@ -1,4 +1,4 @@
-package main.java.design.principal.dip;
+package design.principal.dip;
 
 public class CreditCard implements BankCard{
 

@@ -1,4 +1,4 @@
-package main.java.design.principal.lsp.violation;
+package design.principal.lsp.violation;
 
 public abstract class SocialMedia {
 

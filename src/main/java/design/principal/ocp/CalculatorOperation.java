@@ -1,4 +1,4 @@
-package main.java.design.principal.ocp;
+package design.principal.ocp;
 
 public interface CalculatorOperation {
     void perform();
